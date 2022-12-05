@@ -8,3 +8,4 @@ Credits goes to the following;
 
 1. [laracast](https://laracast.come)
 2. [laravel](https://laravel.com)
+3. [InertialJs](https://inertiajs.com/)
